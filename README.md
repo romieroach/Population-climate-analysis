@@ -1,5 +1,7 @@
-# Population-climate-analysis
-Exploratory data analysis of climate and population
+# Ford GoBike System Data Exploration
+## by Romaine Vassell
+
+## Dataset
 
 The dataset used in this project is the **Ford GoBike System Data**, which contains information about individual bike share trips in the San Francisco Bay Area. The dataset includes details such as trip duration, start and end stations, start and end times, user type (Subscriber or Customer), gender, and birth year.
 
